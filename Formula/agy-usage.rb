@@ -6,8 +6,8 @@ class AgyUsage < Formula
   # each GitHub release for direct download.
   url "git@github.com:kaiba42/agy-usage.git",
       using:    :git,
-      tag:      "v0.2.0",
-      revision: "c0e3bfddf38d7b7ecf1bc3ba3fbda89196349bad"
+      tag:      "v0.2.1",
+      revision: "5f2e468e75d98e1c80bf2ecbd2bc235f4d6f90ba"
   license "MIT"
   head "git@github.com:kaiba42/agy-usage.git", using: :git, branch: "main"
 
